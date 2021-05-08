@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Atm-React-app/static/css/main.22fcc1a7.chunk.css",
+    "main.js": "/Atm-React-app/static/js/main.04c102b8.chunk.js",
+    "main.js.map": "/Atm-React-app/static/js/main.04c102b8.chunk.js.map",
+    "runtime-main.js": "/Atm-React-app/static/js/runtime-main.ad0ede95.js",
+    "runtime-main.js.map": "/Atm-React-app/static/js/runtime-main.ad0ede95.js.map",
+    "static/js/2.6ea74b74.chunk.js": "/Atm-React-app/static/js/2.6ea74b74.chunk.js",
+    "static/js/2.6ea74b74.chunk.js.map": "/Atm-React-app/static/js/2.6ea74b74.chunk.js.map",
+    "static/js/3.359bf1b7.chunk.js": "/Atm-React-app/static/js/3.359bf1b7.chunk.js",
+    "static/js/3.359bf1b7.chunk.js.map": "/Atm-React-app/static/js/3.359bf1b7.chunk.js.map",
+    "index.html": "/Atm-React-app/index.html",
+    "static/css/main.22fcc1a7.chunk.css.map": "/Atm-React-app/static/css/main.22fcc1a7.chunk.css.map",
+    "static/js/2.6ea74b74.chunk.js.LICENSE.txt": "/Atm-React-app/static/js/2.6ea74b74.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Atm-React-app/static/media/a.e296e9d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad0ede95.js",
+    "static/js/2.6ea74b74.chunk.js",
+    "static/css/main.22fcc1a7.chunk.css",
+    "static/js/main.04c102b8.chunk.js"
+  ]
+}
