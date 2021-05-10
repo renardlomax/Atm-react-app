@@ -3,7 +3,7 @@ import React from 'react'
 
 
 const ATMDeposit = ({ onChange, isDeposit, isValid}) => {
-    const choice = ['Deposit', 'Cash Back', 'Clear'];
+    const choice = ['Deposit', 'Cash Back', ];
     console.log(`ATM isDeposit: ${isDeposit}`);
     console.log('isValid', isValid)
     return (
@@ -60,7 +60,7 @@ const ATMDeposit = ({ onChange, isDeposit, isValid}) => {
  <form onSubmit={handleSubmit}>
    
         <h2 id="total">{status}</h2>
-        <label class= "labels">Select Opperation</label>
+        <label class= "labels">Select Operational Tab Below</label>
         <select  class= "tab" onChange={(e) => handleModeSelect(e)} name="mode" id="mode-select">
         <option id="no-selection" value="" ></option>
         <option id="deposit-selection" value="Deposit">Deposit</option>
