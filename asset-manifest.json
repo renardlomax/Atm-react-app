@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Atm-react-app/static/css/main.fcaecd47.chunk.css",
-    "main.js": "/Atm-react-app/static/js/main.c4e8a7e0.chunk.js",
-    "main.js.map": "/Atm-react-app/static/js/main.c4e8a7e0.chunk.js.map",
+    "main.js": "/Atm-react-app/static/js/main.19bacc7b.chunk.js",
+    "main.js.map": "/Atm-react-app/static/js/main.19bacc7b.chunk.js.map",
     "runtime-main.js": "/Atm-react-app/static/js/runtime-main.d3404bb1.js",
     "runtime-main.js.map": "/Atm-react-app/static/js/runtime-main.d3404bb1.js.map",
     "static/js/2.6ea74b74.chunk.js": "/Atm-react-app/static/js/2.6ea74b74.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d3404bb1.js",
     "static/js/2.6ea74b74.chunk.js",
     "static/css/main.fcaecd47.chunk.css",
-    "static/js/main.c4e8a7e0.chunk.js"
+    "static/js/main.19bacc7b.chunk.js"
   ]
 }
